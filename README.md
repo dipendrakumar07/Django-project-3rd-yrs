@@ -1,2 +1,2 @@
-# Django-1st-project-5th-sem
+# Django-project-3rd-yrs
 IceCream shop website
